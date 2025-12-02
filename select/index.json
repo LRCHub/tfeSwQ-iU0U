@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Beautiful",
+  "base_artist": "Superfly",
+  "createdAt": "2025-12-02T15:05:09.458226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson feat. Alan Walker",
+      "has_synced": true,
+      "path": "select/01_Back_to_Beautiful_Sofia_Carson_feat._Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson;Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Back_to_Beautiful_Sofia_Carson;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Beautiful World (feat. Lori Mckenna)",
+      "artist": "Wade Bowen feat. Lori McKenna",
+      "has_synced": true,
+      "path": "select/03_A_Beautiful_World_(feat._Lori_Mckenna)_Wade_Bowen_feat._Lori_McKenna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Beautiful World (feat. Lori Mckenna)",
+      "artist": "Wade Bowen",
+      "has_synced": true,
+      "path": "select/04_A_Beautiful_World_(feat._Lori_Mckenna)_Wade_Bowen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/05_Awful_Beautiful_Life_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/06_Awful_Beautiful_Life_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Crazy_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Mess",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/08_Beautiful_Mess_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Stranger",
+      "artist": "Marcus King",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Stranger_Marcus_King.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Morning Beautiful",
+      "artist": "Steve Holy",
+      "has_synced": true,
+      "path": "select/10_Good_Morning_Beautiful_Steve_Holy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/11_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/12_If_I_Said_You_Had_A_Beautiful_Body_Would_You_Hold_It_Against_Me_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Re- Recorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/13_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Re-_Recorded_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Said You Have a Beautiful Body (Would You Hold It Against Me) (Rerecorded)",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/14_If_I_Said_You_Have_a_Beautiful_Body_(Would_You_Hold_It_Against_Me)_(Rerecorded)_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep Abilene Beautiful",
+      "artist": "Carlton Anderson",
+      "has_synced": false,
+      "path": "select/15_Keep_Abilene_Beautiful_Carlton_Anderson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Is a Beautiful Thing",
+      "artist": "Phil Vassar",
+      "has_synced": false,
+      "path": "select/16_Love_Is_a_Beautiful_Thing_Phil_Vassar.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Is A Beautiful Thing (Album Version)",
+      "artist": "Phil Vassar",
+      "has_synced": false,
+      "path": "select/17_Love_Is_A_Beautiful_Thing_(Album_Version)_Phil_Vassar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Superfly.txt"
+    }
+  ]
+}
